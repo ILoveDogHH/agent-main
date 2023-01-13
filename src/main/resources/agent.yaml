@@ -1,0 +1,3 @@
+agent-calss: #需要热更的类名称
+  - Thread.Job.SecondJob
+  - Activities.Activity570
